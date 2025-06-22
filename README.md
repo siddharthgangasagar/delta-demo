@@ -1,2 +1,2 @@
 # delta-demo
-thiss is demo for project
+thiss is demo for git and github
